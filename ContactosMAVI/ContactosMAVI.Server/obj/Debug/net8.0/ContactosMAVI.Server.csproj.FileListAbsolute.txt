@@ -69,3 +69,4 @@ D:\Desktop\Jesus Ernesto De Leon Gallegos\ContactosMAVI\ContactosMAVI.Server\obj
 D:\Desktop\Jesus Ernesto De Leon Gallegos\ContactosMAVI\ContactosMAVI.Server\obj\Debug\net8.0\ContactosMAVI.Server.pdb
 D:\Desktop\Jesus Ernesto De Leon Gallegos\ContactosMAVI\ContactosMAVI.Server\obj\Debug\net8.0\ContactosMAVI.Server.genruntimeconfig.cache
 D:\Desktop\Jesus Ernesto De Leon Gallegos\ContactosMAVI\ContactosMAVI.Server\obj\Debug\net8.0\ref\ContactosMAVI.Server.dll
+D:\Desktop\Jesus Ernesto De Leon Gallegos\ContactosMAVI\ContactosMAVI.Server\obj\Debug\net8.0\ContactosMAVI.Server.sourcelink.json
